@@ -1,8 +1,9 @@
 #!/bin/bash
 
-echo 'Maya: Have you heard about Cyclone Arnab?'
-echo 'Ravi: Yes. We should follow the weather department’s official updates.'
-echo 'Maya: I’m charging my phone and keeping a flashlight and water ready.'
-echo 'Ravi: Good idea. Let’s secure loose items and stay away from the shore.'
-echo 'Maya: If authorities advise evacuation, we’ll leave promptly.'
-echo 'Ravi: Agreed. We’ll check on our neighbors and stay safe.'
+echo "Satya: Bhanu, I heard you have a new job opportunity. Is that true?"
+echo "Bhanu: Yes, Mom! The new opportunity offers 24 lakhs a year."
+echo "Satya: That sounds wonderful, Bhanu. Does the role feel right for you?"
+echo "Bhanu: It does, Satya. The work matches my interests, and I’m excited to learn more."
+echo "Satya: I’m proud of you, Bhanu. Take your time to review the offer and ask about the details."
+echo "Bhanu: I will, Mom. Thanks for supporting me! love you mom"
+
