@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 echo 'Maya: Have you heard about Cyclone Arnab?'
 echo 'Ravi: Yes. We should follow the weather department’s official updates.'
