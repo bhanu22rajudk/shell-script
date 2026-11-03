@@ -1,5 +1,3 @@
-
-```bash
 #!/bin/bash
 
 # Check if the script is run as root
@@ -27,6 +25,4 @@ systemctl enable nginx
 # Check Nginx status
 echo "checking Nginx status"
 systemctl status nginx
-
-
 
