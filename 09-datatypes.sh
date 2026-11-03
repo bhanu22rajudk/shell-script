@@ -16,7 +16,7 @@ echo "STRING: deploying $service_name to $environment"
 active_users=125
 new_users=8
 total_users=$((active_users + new_users))
-echo "INTEGER: $active_users users + $new_users new users = $total_users"
+echo "INTEGER: $active_users + $new_users = $total_users users"
 
 # Boolean: Bash has no separate Boolean variable type; a test command succeeds or fails.
 service_status="running"
